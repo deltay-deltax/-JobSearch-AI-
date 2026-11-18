@@ -1,0 +1,22 @@
+# Core API & Data Modeling
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.6.0
+python-dotenv>=1.0.0
+
+# Data Processing
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Information Retrieval & Search
+rank-bm25>=0.2.2
+sentence-transformers>=2.5.0
+torch>=2.2.0
+
+# Vector Database (PostgreSQL + pgvector)
+psycopg2-binary>=2.9.9
+pgvector>=0.2.5
+
+# Testing & Evaluation
+pytest>=8.0.0
+scikit-learn>=1.4.0

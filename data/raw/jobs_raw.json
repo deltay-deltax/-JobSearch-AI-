@@ -1,0 +1,1489 @@
+[
+  {
+    "id": "job_0001",
+    "title": "Backend Engineering Intern",
+    "company": "Elip",
+    "description": "<p>We are seeking a high-energy <b>Backend Engineering Intern</b> to help design REST APIs and microservices. You will work directly with our senior engineers using Python and FastAPI. Ideal for fresh graduates passionate about scalable server-side systems.</p>\n\nAbout Elip: YC W25 AI agents startup building autonomous workflow automation.\nRequirements: Demonstrated experience in Python, FastAPI, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "Git"
+    ],
+    "location": "Remote",
+    "experience_required": "Fresher / 0 years",
+    "employment_type": "Internship",
+    "salary": "₹40,000 - ₹60,000 / month",
+    "application_url": "https://careers.elip.com/jobs/job_0001"
+  },
+  {
+    "id": "job_0002",
+    "title": "Junior Python Developer",
+    "company": "Elip",
+    "description": "Looking for a Junior Python Developer with 1+ years of hands-on experience building backend APIs. You will implement data pipelines, asynchronous queues with Celery, and optimize relational database queries.\n\nAbout Elip: YC W25 AI agents startup building autonomous workflow automation.\nRequirements: Demonstrated experience in Python, Django, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Celery"
+    ],
+    "location": "Bangalore",
+    "experience_required": "1-2 years",
+    "employment_type": "Full-time",
+    "salary": "₹8,00,000 - ₹12,00,000 PA",
+    "application_url": "https://careers.elip.com/jobs/job_0002"
+  },
+  {
+    "id": "job_0003",
+    "title": "AI / ML Engineer",
+    "company": "Elip",
+    "description": "<p>Join our core AI team to build semantic retrieval pipelines and fine-tune transformer models. You will implement embedding search using pgvector, optimize vector similarity search, and evaluate retrieval-augmented generation systems.</p>\n\nAbout Elip: YC W25 AI agents startup building autonomous workflow automation.\nRequirements: Demonstrated experience in Python, PyTorch, Hugging Face. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Hugging Face",
+      "Vector Databases",
+      "LangChain"
+    ],
+    "location": "Bangalore",
+    "experience_required": "1-3 years",
+    "employment_type": "Full-time",
+    "salary": "₹15,00,000 - ₹22,00,000 PA",
+    "application_url": "https://careers.elip.com/jobs/job_0003"
+  },
+  {
+    "id": "job_0004",
+    "title": "Senior Backend Architect",
+    "company": "Elip",
+    "description": "We are hiring a Senior Backend Architect to lead our platform reliability and microservices architecture. Requires deep expertise in high-throughput distributed systems, event streams with Kafka, and container orchestration.\n\nAbout Elip: YC W25 AI agents startup building autonomous workflow automation.\nRequirements: Demonstrated experience in Go, Python, Kubernetes. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Go",
+      "Python",
+      "Kubernetes",
+      "Kafka",
+      "PostgreSQL",
+      "Distributed Systems"
+    ],
+    "location": "Remote",
+    "experience_required": "5+ years",
+    "employment_type": "Full-time",
+    "salary": "₹35,00,000 - ₹50,00,000 PA",
+    "application_url": "https://careers.elip.com/jobs/job_0004"
+  },
+  {
+    "id": "job_0005",
+    "title": "Full Stack Engineer (React + Node/Python)",
+    "company": "Elip",
+    "description": "Seeking an end-to-end builder to craft responsive user interfaces in React while connecting them to robust Python FastAPI backends. Strong product sense and clean API design skills required.\n\nAbout Elip: YC W25 AI agents startup building autonomous workflow automation.\nRequirements: Demonstrated experience in React.js, Node.js, FastAPI. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "FastAPI",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "location": "Hyderabad",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹14,00,000 - ₹20,00,000 PA",
+    "application_url": "https://careers.elip.com/jobs/job_0005"
+  },
+  {
+    "id": "job_0006",
+    "title": "Data Engineer",
+    "company": "Elip",
+    "description": "Design and maintain high-volume ETL pipelines. Responsible for data ingestion from multiple third-party APIs, data transformation using PySpark, and orchestrating batch jobs with Airflow.\n\nAbout Elip: YC W25 AI agents startup building autonomous workflow automation.\nRequirements: Demonstrated experience in Python, Apache Spark, Airflow. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Apache Spark",
+      "Airflow",
+      "Snowflake",
+      "SQL"
+    ],
+    "location": "Bangalore (HSR Layout)",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹16,00,000 - ₹24,00,000 PA",
+    "application_url": "https://careers.elip.com/jobs/job_0006"
+  },
+  {
+    "id": "job_0007",
+    "title": "DevOps / Platform Engineer",
+    "company": "Elip",
+    "description": "Automate cloud infrastructure and continuous deployment workflows. Maintain our Kubernetes clusters on AWS, write reusable Terraform modules, and maintain 99.99% uptime.\n\nAbout Elip: YC W25 AI agents startup building autonomous workflow automation.\nRequirements: Demonstrated experience in Kubernetes, Docker, AWS. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "AWS",
+      "Terraform",
+      "CI/CD"
+    ],
+    "location": "Bangalore (HSR Layout)",
+    "experience_required": "3-5 years",
+    "employment_type": "Full-time",
+    "salary": "₹18,00,000 - ₹26,00,000 PA",
+    "application_url": "https://careers.elip.com/jobs/job_0007"
+  },
+  {
+    "id": "job_0008",
+    "title": "AI Engineering Intern",
+    "company": "Elip",
+    "description": "Exciting internship opportunity for university students and recent graduates! Learn to build semantic search engines, fine-tune sentence transformers, and deploy AI services to production.\n\nAbout Elip: YC W25 AI agents startup building autonomous workflow automation.\nRequirements: Demonstrated experience in Python, PyTorch, NLP. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NLP",
+      "FastAPI",
+      "Scikit-Learn"
+    ],
+    "location": "Bangalore (HSR Layout)",
+    "experience_required": "Fresher",
+    "employment_type": "Internship",
+    "salary": "₹45,000 - ₹65,000 / month",
+    "application_url": "https://careers.elip.com/jobs/job_0008"
+  },
+  {
+    "id": "job_0009",
+    "title": "Backend Engineering Intern",
+    "company": "Razorpay",
+    "description": "<p>We are seeking a high-energy <b>Backend Engineering Intern</b> to help design REST APIs and microservices. You will work directly with our senior engineers using Python and FastAPI. Ideal for fresh graduates passionate about scalable server-side systems.</p>\n\nAbout Razorpay: Fintech unicorn simplifying payments and banking for businesses.\nRequirements: Demonstrated experience in Python, FastAPI, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "Git"
+    ],
+    "location": "Remote",
+    "experience_required": "Fresher / 0 years",
+    "employment_type": "Internship",
+    "salary": "₹40,000 - ₹60,000 / month",
+    "application_url": "https://careers.razorpay.com/jobs/job_0009"
+  },
+  {
+    "id": "job_0010",
+    "title": "Junior Python Developer",
+    "company": "Razorpay",
+    "description": "Looking for a Junior Python Developer with 1+ years of hands-on experience building backend APIs. You will implement data pipelines, asynchronous queues with Celery, and optimize relational database queries.\n\nAbout Razorpay: Fintech unicorn simplifying payments and banking for businesses.\nRequirements: Demonstrated experience in Python, Django, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Celery"
+    ],
+    "location": "Bangalore",
+    "experience_required": "1-2 years",
+    "employment_type": "Full-time",
+    "salary": "₹8,00,000 - ₹12,00,000 PA",
+    "application_url": "https://careers.razorpay.com/jobs/job_0010"
+  },
+  {
+    "id": "job_0011",
+    "title": "AI / ML Engineer",
+    "company": "Razorpay",
+    "description": "<p>Join our core AI team to build semantic retrieval pipelines and fine-tune transformer models. You will implement embedding search using pgvector, optimize vector similarity search, and evaluate retrieval-augmented generation systems.</p>\n\nAbout Razorpay: Fintech unicorn simplifying payments and banking for businesses.\nRequirements: Demonstrated experience in Python, PyTorch, Hugging Face. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Hugging Face",
+      "Vector Databases",
+      "LangChain"
+    ],
+    "location": "Remote",
+    "experience_required": "1-3 years",
+    "employment_type": "Full-time",
+    "salary": "₹15,00,000 - ₹22,00,000 PA",
+    "application_url": "https://careers.razorpay.com/jobs/job_0011"
+  },
+  {
+    "id": "job_0012",
+    "title": "Senior Backend Architect",
+    "company": "Razorpay",
+    "description": "We are hiring a Senior Backend Architect to lead our platform reliability and microservices architecture. Requires deep expertise in high-throughput distributed systems, event streams with Kafka, and container orchestration.\n\nAbout Razorpay: Fintech unicorn simplifying payments and banking for businesses.\nRequirements: Demonstrated experience in Go, Python, Kubernetes. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Go",
+      "Python",
+      "Kubernetes",
+      "Kafka",
+      "PostgreSQL",
+      "Distributed Systems"
+    ],
+    "location": "Remote",
+    "experience_required": "5+ years",
+    "employment_type": "Full-time",
+    "salary": "₹35,00,000 - ₹50,00,000 PA",
+    "application_url": "https://careers.razorpay.com/jobs/job_0012"
+  },
+  {
+    "id": "job_0013",
+    "title": "Full Stack Engineer (React + Node/Python)",
+    "company": "Razorpay",
+    "description": "Seeking an end-to-end builder to craft responsive user interfaces in React while connecting them to robust Python FastAPI backends. Strong product sense and clean API design skills required.\n\nAbout Razorpay: Fintech unicorn simplifying payments and banking for businesses.\nRequirements: Demonstrated experience in React.js, Node.js, FastAPI. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "FastAPI",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "location": "Gurgaon",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹14,00,000 - ₹20,00,000 PA",
+    "application_url": "https://careers.razorpay.com/jobs/job_0013"
+  },
+  {
+    "id": "job_0014",
+    "title": "Data Engineer",
+    "company": "Razorpay",
+    "description": "Design and maintain high-volume ETL pipelines. Responsible for data ingestion from multiple third-party APIs, data transformation using PySpark, and orchestrating batch jobs with Airflow.\n\nAbout Razorpay: Fintech unicorn simplifying payments and banking for businesses.\nRequirements: Demonstrated experience in Python, Apache Spark, Airflow. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Apache Spark",
+      "Airflow",
+      "Snowflake",
+      "SQL"
+    ],
+    "location": "Bangalore",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹16,00,000 - ₹24,00,000 PA",
+    "application_url": "https://careers.razorpay.com/jobs/job_0014"
+  },
+  {
+    "id": "job_0015",
+    "title": "DevOps / Platform Engineer",
+    "company": "Razorpay",
+    "description": "Automate cloud infrastructure and continuous deployment workflows. Maintain our Kubernetes clusters on AWS, write reusable Terraform modules, and maintain 99.99% uptime.\n\nAbout Razorpay: Fintech unicorn simplifying payments and banking for businesses.\nRequirements: Demonstrated experience in Kubernetes, Docker, AWS. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "AWS",
+      "Terraform",
+      "CI/CD"
+    ],
+    "location": "Gurgaon",
+    "experience_required": "3-5 years",
+    "employment_type": "Full-time",
+    "salary": "₹18,00,000 - ₹26,00,000 PA",
+    "application_url": "https://careers.razorpay.com/jobs/job_0015"
+  },
+  {
+    "id": "job_0016",
+    "title": "AI Engineering Intern",
+    "company": "Razorpay",
+    "description": "Exciting internship opportunity for university students and recent graduates! Learn to build semantic search engines, fine-tune sentence transformers, and deploy AI services to production.\n\nAbout Razorpay: Fintech unicorn simplifying payments and banking for businesses.\nRequirements: Demonstrated experience in Python, PyTorch, NLP. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NLP",
+      "FastAPI",
+      "Scikit-Learn"
+    ],
+    "location": "Pune",
+    "experience_required": "Fresher",
+    "employment_type": "Internship",
+    "salary": "₹45,000 - ₹65,000 / month",
+    "application_url": "https://careers.razorpay.com/jobs/job_0016"
+  },
+  {
+    "id": "job_0017",
+    "title": "Backend Engineering Intern",
+    "company": "Postman",
+    "description": "<p>We are seeking a high-energy <b>Backend Engineering Intern</b> to help design REST APIs and microservices. You will work directly with our senior engineers using Python and FastAPI. Ideal for fresh graduates passionate about scalable server-side systems.</p>\n\nAbout Postman: API collaboration platform used by over 30 million developers.\nRequirements: Demonstrated experience in Python, FastAPI, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "Git"
+    ],
+    "location": "Bangalore",
+    "experience_required": "Fresher / 0 years",
+    "employment_type": "Internship",
+    "salary": "₹40,000 - ₹60,000 / month",
+    "application_url": "https://careers.postman.com/jobs/job_0017"
+  },
+  {
+    "id": "job_0018",
+    "title": "Junior Python Developer",
+    "company": "Postman",
+    "description": "Looking for a Junior Python Developer with 1+ years of hands-on experience building backend APIs. You will implement data pipelines, asynchronous queues with Celery, and optimize relational database queries.\n\nAbout Postman: API collaboration platform used by over 30 million developers.\nRequirements: Demonstrated experience in Python, Django, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Celery"
+    ],
+    "location": "Bangalore",
+    "experience_required": "1-2 years",
+    "employment_type": "Full-time",
+    "salary": "₹8,00,000 - ₹12,00,000 PA",
+    "application_url": "https://careers.postman.com/jobs/job_0018"
+  },
+  {
+    "id": "job_0019",
+    "title": "AI / ML Engineer",
+    "company": "Postman",
+    "description": "<p>Join our core AI team to build semantic retrieval pipelines and fine-tune transformer models. You will implement embedding search using pgvector, optimize vector similarity search, and evaluate retrieval-augmented generation systems.</p>\n\nAbout Postman: API collaboration platform used by over 30 million developers.\nRequirements: Demonstrated experience in Python, PyTorch, Hugging Face. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Hugging Face",
+      "Vector Databases",
+      "LangChain"
+    ],
+    "location": "Bangalore",
+    "experience_required": "1-3 years",
+    "employment_type": "Full-time",
+    "salary": "₹15,00,000 - ₹22,00,000 PA",
+    "application_url": "https://careers.postman.com/jobs/job_0019"
+  },
+  {
+    "id": "job_0020",
+    "title": "Senior Backend Architect",
+    "company": "Postman",
+    "description": "We are hiring a Senior Backend Architect to lead our platform reliability and microservices architecture. Requires deep expertise in high-throughput distributed systems, event streams with Kafka, and container orchestration.\n\nAbout Postman: API collaboration platform used by over 30 million developers.\nRequirements: Demonstrated experience in Go, Python, Kubernetes. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Go",
+      "Python",
+      "Kubernetes",
+      "Kafka",
+      "PostgreSQL",
+      "Distributed Systems"
+    ],
+    "location": "Bangalore (HSR Layout)",
+    "experience_required": "5+ years",
+    "employment_type": "Full-time",
+    "salary": "₹35,00,000 - ₹50,00,000 PA",
+    "application_url": "https://careers.postman.com/jobs/job_0020"
+  },
+  {
+    "id": "job_0021",
+    "title": "Full Stack Engineer (React + Node/Python)",
+    "company": "Postman",
+    "description": "Seeking an end-to-end builder to craft responsive user interfaces in React while connecting them to robust Python FastAPI backends. Strong product sense and clean API design skills required.\n\nAbout Postman: API collaboration platform used by over 30 million developers.\nRequirements: Demonstrated experience in React.js, Node.js, FastAPI. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "FastAPI",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "location": "Bangalore (HSR Layout)",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹14,00,000 - ₹20,00,000 PA",
+    "application_url": "https://careers.postman.com/jobs/job_0021"
+  },
+  {
+    "id": "job_0022",
+    "title": "Data Engineer",
+    "company": "Postman",
+    "description": "Design and maintain high-volume ETL pipelines. Responsible for data ingestion from multiple third-party APIs, data transformation using PySpark, and orchestrating batch jobs with Airflow.\n\nAbout Postman: API collaboration platform used by over 30 million developers.\nRequirements: Demonstrated experience in Python, Apache Spark, Airflow. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Apache Spark",
+      "Airflow",
+      "Snowflake",
+      "SQL"
+    ],
+    "location": "Gurgaon",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹16,00,000 - ₹24,00,000 PA",
+    "application_url": "https://careers.postman.com/jobs/job_0022"
+  },
+  {
+    "id": "job_0023",
+    "title": "DevOps / Platform Engineer",
+    "company": "Postman",
+    "description": "Automate cloud infrastructure and continuous deployment workflows. Maintain our Kubernetes clusters on AWS, write reusable Terraform modules, and maintain 99.99% uptime.\n\nAbout Postman: API collaboration platform used by over 30 million developers.\nRequirements: Demonstrated experience in Kubernetes, Docker, AWS. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "AWS",
+      "Terraform",
+      "CI/CD"
+    ],
+    "location": "Gurgaon",
+    "experience_required": "3-5 years",
+    "employment_type": "Full-time",
+    "salary": "₹18,00,000 - ₹26,00,000 PA",
+    "application_url": "https://careers.postman.com/jobs/job_0023"
+  },
+  {
+    "id": "job_0024",
+    "title": "AI Engineering Intern",
+    "company": "Postman",
+    "description": "Exciting internship opportunity for university students and recent graduates! Learn to build semantic search engines, fine-tune sentence transformers, and deploy AI services to production.\n\nAbout Postman: API collaboration platform used by over 30 million developers.\nRequirements: Demonstrated experience in Python, PyTorch, NLP. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NLP",
+      "FastAPI",
+      "Scikit-Learn"
+    ],
+    "location": "Bangalore",
+    "experience_required": "Fresher",
+    "employment_type": "Internship",
+    "salary": "₹45,000 - ₹65,000 / month",
+    "application_url": "https://careers.postman.com/jobs/job_0024"
+  },
+  {
+    "id": "job_0025",
+    "title": "Backend Engineering Intern",
+    "company": "Swiggy",
+    "description": "<p>We are seeking a high-energy <b>Backend Engineering Intern</b> to help design REST APIs and microservices. You will work directly with our senior engineers using Python and FastAPI. Ideal for fresh graduates passionate about scalable server-side systems.</p>\n\nAbout Swiggy: Hyperlocal food delivery and quick commerce engineering team.\nRequirements: Demonstrated experience in Python, FastAPI, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "Git"
+    ],
+    "location": "Gurgaon",
+    "experience_required": "Fresher / 0 years",
+    "employment_type": "Internship",
+    "salary": "₹40,000 - ₹60,000 / month",
+    "application_url": "https://careers.swiggy.com/jobs/job_0025"
+  },
+  {
+    "id": "job_0026",
+    "title": "Junior Python Developer",
+    "company": "Swiggy",
+    "description": "Looking for a Junior Python Developer with 1+ years of hands-on experience building backend APIs. You will implement data pipelines, asynchronous queues with Celery, and optimize relational database queries.\n\nAbout Swiggy: Hyperlocal food delivery and quick commerce engineering team.\nRequirements: Demonstrated experience in Python, Django, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Celery"
+    ],
+    "location": "Bangalore (HSR Layout)",
+    "experience_required": "1-2 years",
+    "employment_type": "Full-time",
+    "salary": "₹8,00,000 - ₹12,00,000 PA",
+    "application_url": "https://careers.swiggy.com/jobs/job_0026"
+  },
+  {
+    "id": "job_0027",
+    "title": "AI / ML Engineer",
+    "company": "Swiggy",
+    "description": "<p>Join our core AI team to build semantic retrieval pipelines and fine-tune transformer models. You will implement embedding search using pgvector, optimize vector similarity search, and evaluate retrieval-augmented generation systems.</p>\n\nAbout Swiggy: Hyperlocal food delivery and quick commerce engineering team.\nRequirements: Demonstrated experience in Python, PyTorch, Hugging Face. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Hugging Face",
+      "Vector Databases",
+      "LangChain"
+    ],
+    "location": "Remote",
+    "experience_required": "1-3 years",
+    "employment_type": "Full-time",
+    "salary": "₹15,00,000 - ₹22,00,000 PA",
+    "application_url": "https://careers.swiggy.com/jobs/job_0027"
+  },
+  {
+    "id": "job_0028",
+    "title": "Senior Backend Architect",
+    "company": "Swiggy",
+    "description": "We are hiring a Senior Backend Architect to lead our platform reliability and microservices architecture. Requires deep expertise in high-throughput distributed systems, event streams with Kafka, and container orchestration.\n\nAbout Swiggy: Hyperlocal food delivery and quick commerce engineering team.\nRequirements: Demonstrated experience in Go, Python, Kubernetes. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Go",
+      "Python",
+      "Kubernetes",
+      "Kafka",
+      "PostgreSQL",
+      "Distributed Systems"
+    ],
+    "location": "Remote",
+    "experience_required": "5+ years",
+    "employment_type": "Full-time",
+    "salary": "₹35,00,000 - ₹50,00,000 PA",
+    "application_url": "https://careers.swiggy.com/jobs/job_0028"
+  },
+  {
+    "id": "job_0029",
+    "title": "Full Stack Engineer (React + Node/Python)",
+    "company": "Swiggy",
+    "description": "Seeking an end-to-end builder to craft responsive user interfaces in React while connecting them to robust Python FastAPI backends. Strong product sense and clean API design skills required.\n\nAbout Swiggy: Hyperlocal food delivery and quick commerce engineering team.\nRequirements: Demonstrated experience in React.js, Node.js, FastAPI. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "FastAPI",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "location": "Remote",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹14,00,000 - ₹20,00,000 PA",
+    "application_url": "https://careers.swiggy.com/jobs/job_0029"
+  },
+  {
+    "id": "job_0030",
+    "title": "Data Engineer",
+    "company": "Swiggy",
+    "description": "Design and maintain high-volume ETL pipelines. Responsible for data ingestion from multiple third-party APIs, data transformation using PySpark, and orchestrating batch jobs with Airflow.\n\nAbout Swiggy: Hyperlocal food delivery and quick commerce engineering team.\nRequirements: Demonstrated experience in Python, Apache Spark, Airflow. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Apache Spark",
+      "Airflow",
+      "Snowflake",
+      "SQL"
+    ],
+    "location": "Gurgaon",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹16,00,000 - ₹24,00,000 PA",
+    "application_url": "https://careers.swiggy.com/jobs/job_0030"
+  },
+  {
+    "id": "job_0031",
+    "title": "DevOps / Platform Engineer",
+    "company": "Swiggy",
+    "description": "Automate cloud infrastructure and continuous deployment workflows. Maintain our Kubernetes clusters on AWS, write reusable Terraform modules, and maintain 99.99% uptime.\n\nAbout Swiggy: Hyperlocal food delivery and quick commerce engineering team.\nRequirements: Demonstrated experience in Kubernetes, Docker, AWS. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "AWS",
+      "Terraform",
+      "CI/CD"
+    ],
+    "location": "Pune",
+    "experience_required": "3-5 years",
+    "employment_type": "Full-time",
+    "salary": "₹18,00,000 - ₹26,00,000 PA",
+    "application_url": "https://careers.swiggy.com/jobs/job_0031"
+  },
+  {
+    "id": "job_0032",
+    "title": "AI Engineering Intern",
+    "company": "Swiggy",
+    "description": "Exciting internship opportunity for university students and recent graduates! Learn to build semantic search engines, fine-tune sentence transformers, and deploy AI services to production.\n\nAbout Swiggy: Hyperlocal food delivery and quick commerce engineering team.\nRequirements: Demonstrated experience in Python, PyTorch, NLP. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NLP",
+      "FastAPI",
+      "Scikit-Learn"
+    ],
+    "location": "Bangalore (HSR Layout)",
+    "experience_required": "Fresher",
+    "employment_type": "Internship",
+    "salary": "₹45,000 - ₹65,000 / month",
+    "application_url": "https://careers.swiggy.com/jobs/job_0032"
+  },
+  {
+    "id": "job_0033",
+    "title": "Backend Engineering Intern",
+    "company": "Flipkart",
+    "description": "<p>We are seeking a high-energy <b>Backend Engineering Intern</b> to help design REST APIs and microservices. You will work directly with our senior engineers using Python and FastAPI. Ideal for fresh graduates passionate about scalable server-side systems.</p>\n\nAbout Flipkart: E-commerce platform scaling distributed systems for peak traffic.\nRequirements: Demonstrated experience in Python, FastAPI, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "Git"
+    ],
+    "location": "Pune",
+    "experience_required": "Fresher / 0 years",
+    "employment_type": "Internship",
+    "salary": "₹40,000 - ₹60,000 / month",
+    "application_url": "https://careers.flipkart.com/jobs/job_0033"
+  },
+  {
+    "id": "job_0034",
+    "title": "Junior Python Developer",
+    "company": "Flipkart",
+    "description": "Looking for a Junior Python Developer with 1+ years of hands-on experience building backend APIs. You will implement data pipelines, asynchronous queues with Celery, and optimize relational database queries.\n\nAbout Flipkart: E-commerce platform scaling distributed systems for peak traffic.\nRequirements: Demonstrated experience in Python, Django, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Celery"
+    ],
+    "location": "Gurgaon",
+    "experience_required": "1-2 years",
+    "employment_type": "Full-time",
+    "salary": "₹8,00,000 - ₹12,00,000 PA",
+    "application_url": "https://careers.flipkart.com/jobs/job_0034"
+  },
+  {
+    "id": "job_0035",
+    "title": "AI / ML Engineer",
+    "company": "Flipkart",
+    "description": "<p>Join our core AI team to build semantic retrieval pipelines and fine-tune transformer models. You will implement embedding search using pgvector, optimize vector similarity search, and evaluate retrieval-augmented generation systems.</p>\n\nAbout Flipkart: E-commerce platform scaling distributed systems for peak traffic.\nRequirements: Demonstrated experience in Python, PyTorch, Hugging Face. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Hugging Face",
+      "Vector Databases",
+      "LangChain"
+    ],
+    "location": "Hyderabad",
+    "experience_required": "1-3 years",
+    "employment_type": "Full-time",
+    "salary": "₹15,00,000 - ₹22,00,000 PA",
+    "application_url": "https://careers.flipkart.com/jobs/job_0035"
+  },
+  {
+    "id": "job_0036",
+    "title": "Senior Backend Architect",
+    "company": "Flipkart",
+    "description": "We are hiring a Senior Backend Architect to lead our platform reliability and microservices architecture. Requires deep expertise in high-throughput distributed systems, event streams with Kafka, and container orchestration.\n\nAbout Flipkart: E-commerce platform scaling distributed systems for peak traffic.\nRequirements: Demonstrated experience in Go, Python, Kubernetes. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Go",
+      "Python",
+      "Kubernetes",
+      "Kafka",
+      "PostgreSQL",
+      "Distributed Systems"
+    ],
+    "location": "Bangalore / Remote",
+    "experience_required": "5+ years",
+    "employment_type": "Full-time",
+    "salary": "₹35,00,000 - ₹50,00,000 PA",
+    "application_url": "https://careers.flipkart.com/jobs/job_0036"
+  },
+  {
+    "id": "job_0037",
+    "title": "Full Stack Engineer (React + Node/Python)",
+    "company": "Flipkart",
+    "description": "Seeking an end-to-end builder to craft responsive user interfaces in React while connecting them to robust Python FastAPI backends. Strong product sense and clean API design skills required.\n\nAbout Flipkart: E-commerce platform scaling distributed systems for peak traffic.\nRequirements: Demonstrated experience in React.js, Node.js, FastAPI. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "FastAPI",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "location": "Bangalore / Remote",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹14,00,000 - ₹20,00,000 PA",
+    "application_url": "https://careers.flipkart.com/jobs/job_0037"
+  },
+  {
+    "id": "job_0038",
+    "title": "Data Engineer",
+    "company": "Flipkart",
+    "description": "Design and maintain high-volume ETL pipelines. Responsible for data ingestion from multiple third-party APIs, data transformation using PySpark, and orchestrating batch jobs with Airflow.\n\nAbout Flipkart: E-commerce platform scaling distributed systems for peak traffic.\nRequirements: Demonstrated experience in Python, Apache Spark, Airflow. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Apache Spark",
+      "Airflow",
+      "Snowflake",
+      "SQL"
+    ],
+    "location": "Bangalore",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹16,00,000 - ₹24,00,000 PA",
+    "application_url": "https://careers.flipkart.com/jobs/job_0038"
+  },
+  {
+    "id": "job_0039",
+    "title": "DevOps / Platform Engineer",
+    "company": "Flipkart",
+    "description": "Automate cloud infrastructure and continuous deployment workflows. Maintain our Kubernetes clusters on AWS, write reusable Terraform modules, and maintain 99.99% uptime.\n\nAbout Flipkart: E-commerce platform scaling distributed systems for peak traffic.\nRequirements: Demonstrated experience in Kubernetes, Docker, AWS. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "AWS",
+      "Terraform",
+      "CI/CD"
+    ],
+    "location": "Bangalore / Remote",
+    "experience_required": "3-5 years",
+    "employment_type": "Full-time",
+    "salary": "₹18,00,000 - ₹26,00,000 PA",
+    "application_url": "https://careers.flipkart.com/jobs/job_0039"
+  },
+  {
+    "id": "job_0040",
+    "title": "AI Engineering Intern",
+    "company": "Flipkart",
+    "description": "Exciting internship opportunity for university students and recent graduates! Learn to build semantic search engines, fine-tune sentence transformers, and deploy AI services to production.\n\nAbout Flipkart: E-commerce platform scaling distributed systems for peak traffic.\nRequirements: Demonstrated experience in Python, PyTorch, NLP. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NLP",
+      "FastAPI",
+      "Scikit-Learn"
+    ],
+    "location": "Bangalore / Remote",
+    "experience_required": "Fresher",
+    "employment_type": "Internship",
+    "salary": "₹45,000 - ₹65,000 / month",
+    "application_url": "https://careers.flipkart.com/jobs/job_0040"
+  },
+  {
+    "id": "job_0041",
+    "title": "Backend Engineering Intern",
+    "company": "Zerodha",
+    "description": "<p>We are seeking a high-energy <b>Backend Engineering Intern</b> to help design REST APIs and microservices. You will work directly with our senior engineers using Python and FastAPI. Ideal for fresh graduates passionate about scalable server-side systems.</p>\n\nAbout Zerodha: Bootstrapped fintech powering India's largest discount broker.\nRequirements: Demonstrated experience in Python, FastAPI, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "Git"
+    ],
+    "location": "Bangalore (HSR Layout)",
+    "experience_required": "Fresher / 0 years",
+    "employment_type": "Internship",
+    "salary": "₹40,000 - ₹60,000 / month",
+    "application_url": "https://careers.zerodha.com/jobs/job_0041"
+  },
+  {
+    "id": "job_0042",
+    "title": "Junior Python Developer",
+    "company": "Zerodha",
+    "description": "Looking for a Junior Python Developer with 1+ years of hands-on experience building backend APIs. You will implement data pipelines, asynchronous queues with Celery, and optimize relational database queries.\n\nAbout Zerodha: Bootstrapped fintech powering India's largest discount broker.\nRequirements: Demonstrated experience in Python, Django, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Celery"
+    ],
+    "location": "Remote",
+    "experience_required": "1-2 years",
+    "employment_type": "Full-time",
+    "salary": "₹8,00,000 - ₹12,00,000 PA",
+    "application_url": "https://careers.zerodha.com/jobs/job_0042"
+  },
+  {
+    "id": "job_0043",
+    "title": "AI / ML Engineer",
+    "company": "Zerodha",
+    "description": "<p>Join our core AI team to build semantic retrieval pipelines and fine-tune transformer models. You will implement embedding search using pgvector, optimize vector similarity search, and evaluate retrieval-augmented generation systems.</p>\n\nAbout Zerodha: Bootstrapped fintech powering India's largest discount broker.\nRequirements: Demonstrated experience in Python, PyTorch, Hugging Face. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Hugging Face",
+      "Vector Databases",
+      "LangChain"
+    ],
+    "location": "Pune",
+    "experience_required": "1-3 years",
+    "employment_type": "Full-time",
+    "salary": "₹15,00,000 - ₹22,00,000 PA",
+    "application_url": "https://careers.zerodha.com/jobs/job_0043"
+  },
+  {
+    "id": "job_0044",
+    "title": "Senior Backend Architect",
+    "company": "Zerodha",
+    "description": "We are hiring a Senior Backend Architect to lead our platform reliability and microservices architecture. Requires deep expertise in high-throughput distributed systems, event streams with Kafka, and container orchestration.\n\nAbout Zerodha: Bootstrapped fintech powering India's largest discount broker.\nRequirements: Demonstrated experience in Go, Python, Kubernetes. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Go",
+      "Python",
+      "Kubernetes",
+      "Kafka",
+      "PostgreSQL",
+      "Distributed Systems"
+    ],
+    "location": "Hyderabad",
+    "experience_required": "5+ years",
+    "employment_type": "Full-time",
+    "salary": "₹35,00,000 - ₹50,00,000 PA",
+    "application_url": "https://careers.zerodha.com/jobs/job_0044"
+  },
+  {
+    "id": "job_0045",
+    "title": "Full Stack Engineer (React + Node/Python)",
+    "company": "Zerodha",
+    "description": "Seeking an end-to-end builder to craft responsive user interfaces in React while connecting them to robust Python FastAPI backends. Strong product sense and clean API design skills required.\n\nAbout Zerodha: Bootstrapped fintech powering India's largest discount broker.\nRequirements: Demonstrated experience in React.js, Node.js, FastAPI. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "FastAPI",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "location": "Hyderabad",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹14,00,000 - ₹20,00,000 PA",
+    "application_url": "https://careers.zerodha.com/jobs/job_0045"
+  },
+  {
+    "id": "job_0046",
+    "title": "Data Engineer",
+    "company": "Zerodha",
+    "description": "Design and maintain high-volume ETL pipelines. Responsible for data ingestion from multiple third-party APIs, data transformation using PySpark, and orchestrating batch jobs with Airflow.\n\nAbout Zerodha: Bootstrapped fintech powering India's largest discount broker.\nRequirements: Demonstrated experience in Python, Apache Spark, Airflow. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Apache Spark",
+      "Airflow",
+      "Snowflake",
+      "SQL"
+    ],
+    "location": "Bangalore (HSR Layout)",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹16,00,000 - ₹24,00,000 PA",
+    "application_url": "https://careers.zerodha.com/jobs/job_0046"
+  },
+  {
+    "id": "job_0047",
+    "title": "DevOps / Platform Engineer",
+    "company": "Zerodha",
+    "description": "Automate cloud infrastructure and continuous deployment workflows. Maintain our Kubernetes clusters on AWS, write reusable Terraform modules, and maintain 99.99% uptime.\n\nAbout Zerodha: Bootstrapped fintech powering India's largest discount broker.\nRequirements: Demonstrated experience in Kubernetes, Docker, AWS. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "AWS",
+      "Terraform",
+      "CI/CD"
+    ],
+    "location": "Bangalore (HSR Layout)",
+    "experience_required": "3-5 years",
+    "employment_type": "Full-time",
+    "salary": "₹18,00,000 - ₹26,00,000 PA",
+    "application_url": "https://careers.zerodha.com/jobs/job_0047"
+  },
+  {
+    "id": "job_0048",
+    "title": "AI Engineering Intern",
+    "company": "Zerodha",
+    "description": "Exciting internship opportunity for university students and recent graduates! Learn to build semantic search engines, fine-tune sentence transformers, and deploy AI services to production.\n\nAbout Zerodha: Bootstrapped fintech powering India's largest discount broker.\nRequirements: Demonstrated experience in Python, PyTorch, NLP. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NLP",
+      "FastAPI",
+      "Scikit-Learn"
+    ],
+    "location": "Bangalore / Remote",
+    "experience_required": "Fresher",
+    "employment_type": "Internship",
+    "salary": "₹45,000 - ₹65,000 / month",
+    "application_url": "https://careers.zerodha.com/jobs/job_0048"
+  },
+  {
+    "id": "job_0049",
+    "title": "Backend Engineering Intern",
+    "company": "CRED",
+    "description": "<p>We are seeking a high-energy <b>Backend Engineering Intern</b> to help design REST APIs and microservices. You will work directly with our senior engineers using Python and FastAPI. Ideal for fresh graduates passionate about scalable server-side systems.</p>\n\nAbout CRED: Member-only platform rewarding financial discipline with high-scale tech.\nRequirements: Demonstrated experience in Python, FastAPI, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "Git"
+    ],
+    "location": "Hyderabad",
+    "experience_required": "Fresher / 0 years",
+    "employment_type": "Internship",
+    "salary": "₹40,000 - ₹60,000 / month",
+    "application_url": "https://careers.cred.com/jobs/job_0049"
+  },
+  {
+    "id": "job_0050",
+    "title": "Junior Python Developer",
+    "company": "CRED",
+    "description": "Looking for a Junior Python Developer with 1+ years of hands-on experience building backend APIs. You will implement data pipelines, asynchronous queues with Celery, and optimize relational database queries.\n\nAbout CRED: Member-only platform rewarding financial discipline with high-scale tech.\nRequirements: Demonstrated experience in Python, Django, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Celery"
+    ],
+    "location": "Bangalore",
+    "experience_required": "1-2 years",
+    "employment_type": "Full-time",
+    "salary": "₹8,00,000 - ₹12,00,000 PA",
+    "application_url": "https://careers.cred.com/jobs/job_0050"
+  },
+  {
+    "id": "job_0051",
+    "title": "AI / ML Engineer",
+    "company": "CRED",
+    "description": "<p>Join our core AI team to build semantic retrieval pipelines and fine-tune transformer models. You will implement embedding search using pgvector, optimize vector similarity search, and evaluate retrieval-augmented generation systems.</p>\n\nAbout CRED: Member-only platform rewarding financial discipline with high-scale tech.\nRequirements: Demonstrated experience in Python, PyTorch, Hugging Face. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Hugging Face",
+      "Vector Databases",
+      "LangChain"
+    ],
+    "location": "Bangalore",
+    "experience_required": "1-3 years",
+    "employment_type": "Full-time",
+    "salary": "₹15,00,000 - ₹22,00,000 PA",
+    "application_url": "https://careers.cred.com/jobs/job_0051"
+  },
+  {
+    "id": "job_0052",
+    "title": "Senior Backend Architect",
+    "company": "CRED",
+    "description": "We are hiring a Senior Backend Architect to lead our platform reliability and microservices architecture. Requires deep expertise in high-throughput distributed systems, event streams with Kafka, and container orchestration.\n\nAbout CRED: Member-only platform rewarding financial discipline with high-scale tech.\nRequirements: Demonstrated experience in Go, Python, Kubernetes. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Go",
+      "Python",
+      "Kubernetes",
+      "Kafka",
+      "PostgreSQL",
+      "Distributed Systems"
+    ],
+    "location": "Pune",
+    "experience_required": "5+ years",
+    "employment_type": "Full-time",
+    "salary": "₹35,00,000 - ₹50,00,000 PA",
+    "application_url": "https://careers.cred.com/jobs/job_0052"
+  },
+  {
+    "id": "job_0053",
+    "title": "Full Stack Engineer (React + Node/Python)",
+    "company": "CRED",
+    "description": "Seeking an end-to-end builder to craft responsive user interfaces in React while connecting them to robust Python FastAPI backends. Strong product sense and clean API design skills required.\n\nAbout CRED: Member-only platform rewarding financial discipline with high-scale tech.\nRequirements: Demonstrated experience in React.js, Node.js, FastAPI. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "FastAPI",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "location": "Bangalore",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹14,00,000 - ₹20,00,000 PA",
+    "application_url": "https://careers.cred.com/jobs/job_0053"
+  },
+  {
+    "id": "job_0054",
+    "title": "Data Engineer",
+    "company": "CRED",
+    "description": "Design and maintain high-volume ETL pipelines. Responsible for data ingestion from multiple third-party APIs, data transformation using PySpark, and orchestrating batch jobs with Airflow.\n\nAbout CRED: Member-only platform rewarding financial discipline with high-scale tech.\nRequirements: Demonstrated experience in Python, Apache Spark, Airflow. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Apache Spark",
+      "Airflow",
+      "Snowflake",
+      "SQL"
+    ],
+    "location": "Hyderabad",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹16,00,000 - ₹24,00,000 PA",
+    "application_url": "https://careers.cred.com/jobs/job_0054"
+  },
+  {
+    "id": "job_0055",
+    "title": "DevOps / Platform Engineer",
+    "company": "CRED",
+    "description": "Automate cloud infrastructure and continuous deployment workflows. Maintain our Kubernetes clusters on AWS, write reusable Terraform modules, and maintain 99.99% uptime.\n\nAbout CRED: Member-only platform rewarding financial discipline with high-scale tech.\nRequirements: Demonstrated experience in Kubernetes, Docker, AWS. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "AWS",
+      "Terraform",
+      "CI/CD"
+    ],
+    "location": "Bangalore / Remote",
+    "experience_required": "3-5 years",
+    "employment_type": "Full-time",
+    "salary": "₹18,00,000 - ₹26,00,000 PA",
+    "application_url": "https://careers.cred.com/jobs/job_0055"
+  },
+  {
+    "id": "job_0056",
+    "title": "AI Engineering Intern",
+    "company": "CRED",
+    "description": "Exciting internship opportunity for university students and recent graduates! Learn to build semantic search engines, fine-tune sentence transformers, and deploy AI services to production.\n\nAbout CRED: Member-only platform rewarding financial discipline with high-scale tech.\nRequirements: Demonstrated experience in Python, PyTorch, NLP. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NLP",
+      "FastAPI",
+      "Scikit-Learn"
+    ],
+    "location": "Hyderabad",
+    "experience_required": "Fresher",
+    "employment_type": "Internship",
+    "salary": "₹45,000 - ₹65,000 / month",
+    "application_url": "https://careers.cred.com/jobs/job_0056"
+  },
+  {
+    "id": "job_0057",
+    "title": "Backend Engineering Intern",
+    "company": "Hasura",
+    "description": "<p>We are seeking a high-energy <b>Backend Engineering Intern</b> to help design REST APIs and microservices. You will work directly with our senior engineers using Python and FastAPI. Ideal for fresh graduates passionate about scalable server-side systems.</p>\n\nAbout Hasura: Open-source GraphQL and instant API engine for modern databases.\nRequirements: Demonstrated experience in Python, FastAPI, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "Git"
+    ],
+    "location": "Gurgaon",
+    "experience_required": "Fresher / 0 years",
+    "employment_type": "Internship",
+    "salary": "₹40,000 - ₹60,000 / month",
+    "application_url": "https://careers.hasura.com/jobs/job_0057"
+  },
+  {
+    "id": "job_0058",
+    "title": "Junior Python Developer",
+    "company": "Hasura",
+    "description": "Looking for a Junior Python Developer with 1+ years of hands-on experience building backend APIs. You will implement data pipelines, asynchronous queues with Celery, and optimize relational database queries.\n\nAbout Hasura: Open-source GraphQL and instant API engine for modern databases.\nRequirements: Demonstrated experience in Python, Django, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Celery"
+    ],
+    "location": "Hyderabad",
+    "experience_required": "1-2 years",
+    "employment_type": "Full-time",
+    "salary": "₹8,00,000 - ₹12,00,000 PA",
+    "application_url": "https://careers.hasura.com/jobs/job_0058"
+  },
+  {
+    "id": "job_0059",
+    "title": "AI / ML Engineer",
+    "company": "Hasura",
+    "description": "<p>Join our core AI team to build semantic retrieval pipelines and fine-tune transformer models. You will implement embedding search using pgvector, optimize vector similarity search, and evaluate retrieval-augmented generation systems.</p>\n\nAbout Hasura: Open-source GraphQL and instant API engine for modern databases.\nRequirements: Demonstrated experience in Python, PyTorch, Hugging Face. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Hugging Face",
+      "Vector Databases",
+      "LangChain"
+    ],
+    "location": "Bangalore / Remote",
+    "experience_required": "1-3 years",
+    "employment_type": "Full-time",
+    "salary": "₹15,00,000 - ₹22,00,000 PA",
+    "application_url": "https://careers.hasura.com/jobs/job_0059"
+  },
+  {
+    "id": "job_0060",
+    "title": "Senior Backend Architect",
+    "company": "Hasura",
+    "description": "We are hiring a Senior Backend Architect to lead our platform reliability and microservices architecture. Requires deep expertise in high-throughput distributed systems, event streams with Kafka, and container orchestration.\n\nAbout Hasura: Open-source GraphQL and instant API engine for modern databases.\nRequirements: Demonstrated experience in Go, Python, Kubernetes. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Go",
+      "Python",
+      "Kubernetes",
+      "Kafka",
+      "PostgreSQL",
+      "Distributed Systems"
+    ],
+    "location": "Bangalore",
+    "experience_required": "5+ years",
+    "employment_type": "Full-time",
+    "salary": "₹35,00,000 - ₹50,00,000 PA",
+    "application_url": "https://careers.hasura.com/jobs/job_0060"
+  },
+  {
+    "id": "job_0061",
+    "title": "Full Stack Engineer (React + Node/Python)",
+    "company": "Hasura",
+    "description": "Seeking an end-to-end builder to craft responsive user interfaces in React while connecting them to robust Python FastAPI backends. Strong product sense and clean API design skills required.\n\nAbout Hasura: Open-source GraphQL and instant API engine for modern databases.\nRequirements: Demonstrated experience in React.js, Node.js, FastAPI. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "FastAPI",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "location": "Remote",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹14,00,000 - ₹20,00,000 PA",
+    "application_url": "https://careers.hasura.com/jobs/job_0061"
+  },
+  {
+    "id": "job_0062",
+    "title": "Data Engineer",
+    "company": "Hasura",
+    "description": "Design and maintain high-volume ETL pipelines. Responsible for data ingestion from multiple third-party APIs, data transformation using PySpark, and orchestrating batch jobs with Airflow.\n\nAbout Hasura: Open-source GraphQL and instant API engine for modern databases.\nRequirements: Demonstrated experience in Python, Apache Spark, Airflow. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Apache Spark",
+      "Airflow",
+      "Snowflake",
+      "SQL"
+    ],
+    "location": "Pune",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹16,00,000 - ₹24,00,000 PA",
+    "application_url": "https://careers.hasura.com/jobs/job_0062"
+  },
+  {
+    "id": "job_0063",
+    "title": "DevOps / Platform Engineer",
+    "company": "Hasura",
+    "description": "Automate cloud infrastructure and continuous deployment workflows. Maintain our Kubernetes clusters on AWS, write reusable Terraform modules, and maintain 99.99% uptime.\n\nAbout Hasura: Open-source GraphQL and instant API engine for modern databases.\nRequirements: Demonstrated experience in Kubernetes, Docker, AWS. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "AWS",
+      "Terraform",
+      "CI/CD"
+    ],
+    "location": "Gurgaon",
+    "experience_required": "3-5 years",
+    "employment_type": "Full-time",
+    "salary": "₹18,00,000 - ₹26,00,000 PA",
+    "application_url": "https://careers.hasura.com/jobs/job_0063"
+  },
+  {
+    "id": "job_0064",
+    "title": "AI Engineering Intern",
+    "company": "Hasura",
+    "description": "Exciting internship opportunity for university students and recent graduates! Learn to build semantic search engines, fine-tune sentence transformers, and deploy AI services to production.\n\nAbout Hasura: Open-source GraphQL and instant API engine for modern databases.\nRequirements: Demonstrated experience in Python, PyTorch, NLP. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NLP",
+      "FastAPI",
+      "Scikit-Learn"
+    ],
+    "location": "Bangalore",
+    "experience_required": "Fresher",
+    "employment_type": "Internship",
+    "salary": "₹45,000 - ₹65,000 / month",
+    "application_url": "https://careers.hasura.com/jobs/job_0064"
+  },
+  {
+    "id": "job_0065",
+    "title": "Backend Engineering Intern",
+    "company": "BrowserStack",
+    "description": "<p>We are seeking a high-energy <b>Backend Engineering Intern</b> to help design REST APIs and microservices. You will work directly with our senior engineers using Python and FastAPI. Ideal for fresh graduates passionate about scalable server-side systems.</p>\n\nAbout BrowserStack: Cloud-based web and mobile testing infrastructure.\nRequirements: Demonstrated experience in Python, FastAPI, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "Git"
+    ],
+    "location": "Pune",
+    "experience_required": "Fresher / 0 years",
+    "employment_type": "Internship",
+    "salary": "₹40,000 - ₹60,000 / month",
+    "application_url": "https://careers.browserstack.com/jobs/job_0065"
+  },
+  {
+    "id": "job_0066",
+    "title": "Junior Python Developer",
+    "company": "BrowserStack",
+    "description": "Looking for a Junior Python Developer with 1+ years of hands-on experience building backend APIs. You will implement data pipelines, asynchronous queues with Celery, and optimize relational database queries.\n\nAbout BrowserStack: Cloud-based web and mobile testing infrastructure.\nRequirements: Demonstrated experience in Python, Django, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Celery"
+    ],
+    "location": "Bangalore",
+    "experience_required": "1-2 years",
+    "employment_type": "Full-time",
+    "salary": "₹8,00,000 - ₹12,00,000 PA",
+    "application_url": "https://careers.browserstack.com/jobs/job_0066"
+  },
+  {
+    "id": "job_0067",
+    "title": "AI / ML Engineer",
+    "company": "BrowserStack",
+    "description": "<p>Join our core AI team to build semantic retrieval pipelines and fine-tune transformer models. You will implement embedding search using pgvector, optimize vector similarity search, and evaluate retrieval-augmented generation systems.</p>\n\nAbout BrowserStack: Cloud-based web and mobile testing infrastructure.\nRequirements: Demonstrated experience in Python, PyTorch, Hugging Face. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Hugging Face",
+      "Vector Databases",
+      "LangChain"
+    ],
+    "location": "Gurgaon",
+    "experience_required": "1-3 years",
+    "employment_type": "Full-time",
+    "salary": "₹15,00,000 - ₹22,00,000 PA",
+    "application_url": "https://careers.browserstack.com/jobs/job_0067"
+  },
+  {
+    "id": "job_0068",
+    "title": "Senior Backend Architect",
+    "company": "BrowserStack",
+    "description": "We are hiring a Senior Backend Architect to lead our platform reliability and microservices architecture. Requires deep expertise in high-throughput distributed systems, event streams with Kafka, and container orchestration.\n\nAbout BrowserStack: Cloud-based web and mobile testing infrastructure.\nRequirements: Demonstrated experience in Go, Python, Kubernetes. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Go",
+      "Python",
+      "Kubernetes",
+      "Kafka",
+      "PostgreSQL",
+      "Distributed Systems"
+    ],
+    "location": "Hyderabad",
+    "experience_required": "5+ years",
+    "employment_type": "Full-time",
+    "salary": "₹35,00,000 - ₹50,00,000 PA",
+    "application_url": "https://careers.browserstack.com/jobs/job_0068"
+  },
+  {
+    "id": "job_0069",
+    "title": "Full Stack Engineer (React + Node/Python)",
+    "company": "BrowserStack",
+    "description": "Seeking an end-to-end builder to craft responsive user interfaces in React while connecting them to robust Python FastAPI backends. Strong product sense and clean API design skills required.\n\nAbout BrowserStack: Cloud-based web and mobile testing infrastructure.\nRequirements: Demonstrated experience in React.js, Node.js, FastAPI. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "FastAPI",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "location": "Bangalore / Remote",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹14,00,000 - ₹20,00,000 PA",
+    "application_url": "https://careers.browserstack.com/jobs/job_0069"
+  },
+  {
+    "id": "job_0070",
+    "title": "Data Engineer",
+    "company": "BrowserStack",
+    "description": "Design and maintain high-volume ETL pipelines. Responsible for data ingestion from multiple third-party APIs, data transformation using PySpark, and orchestrating batch jobs with Airflow.\n\nAbout BrowserStack: Cloud-based web and mobile testing infrastructure.\nRequirements: Demonstrated experience in Python, Apache Spark, Airflow. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Apache Spark",
+      "Airflow",
+      "Snowflake",
+      "SQL"
+    ],
+    "location": "Remote",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹16,00,000 - ₹24,00,000 PA",
+    "application_url": "https://careers.browserstack.com/jobs/job_0070"
+  },
+  {
+    "id": "job_0071",
+    "title": "DevOps / Platform Engineer",
+    "company": "BrowserStack",
+    "description": "Automate cloud infrastructure and continuous deployment workflows. Maintain our Kubernetes clusters on AWS, write reusable Terraform modules, and maintain 99.99% uptime.\n\nAbout BrowserStack: Cloud-based web and mobile testing infrastructure.\nRequirements: Demonstrated experience in Kubernetes, Docker, AWS. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "AWS",
+      "Terraform",
+      "CI/CD"
+    ],
+    "location": "Gurgaon",
+    "experience_required": "3-5 years",
+    "employment_type": "Full-time",
+    "salary": "₹18,00,000 - ₹26,00,000 PA",
+    "application_url": "https://careers.browserstack.com/jobs/job_0071"
+  },
+  {
+    "id": "job_0072",
+    "title": "AI Engineering Intern",
+    "company": "BrowserStack",
+    "description": "Exciting internship opportunity for university students and recent graduates! Learn to build semantic search engines, fine-tune sentence transformers, and deploy AI services to production.\n\nAbout BrowserStack: Cloud-based web and mobile testing infrastructure.\nRequirements: Demonstrated experience in Python, PyTorch, NLP. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NLP",
+      "FastAPI",
+      "Scikit-Learn"
+    ],
+    "location": "Bangalore / Remote",
+    "experience_required": "Fresher",
+    "employment_type": "Internship",
+    "salary": "₹45,000 - ₹65,000 / month",
+    "application_url": "https://careers.browserstack.com/jobs/job_0072"
+  },
+  {
+    "id": "job_0073",
+    "title": "Backend Engineering Intern",
+    "company": "Ola Krutrim",
+    "description": "<p>We are seeking a high-energy <b>Backend Engineering Intern</b> to help design REST APIs and microservices. You will work directly with our senior engineers using Python and FastAPI. Ideal for fresh graduates passionate about scalable server-side systems.</p>\n\nAbout Ola Krutrim: Building sovereign foundational AI models and high-throughput inference APIs.\nRequirements: Demonstrated experience in Python, FastAPI, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "Git"
+    ],
+    "location": "Hyderabad",
+    "experience_required": "Fresher / 0 years",
+    "employment_type": "Internship",
+    "salary": "₹40,000 - ₹60,000 / month",
+    "application_url": "https://careers.olakrutrim.com/jobs/job_0073"
+  },
+  {
+    "id": "job_0074",
+    "title": "Junior Python Developer",
+    "company": "Ola Krutrim",
+    "description": "Looking for a Junior Python Developer with 1+ years of hands-on experience building backend APIs. You will implement data pipelines, asynchronous queues with Celery, and optimize relational database queries.\n\nAbout Ola Krutrim: Building sovereign foundational AI models and high-throughput inference APIs.\nRequirements: Demonstrated experience in Python, Django, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Celery"
+    ],
+    "location": "Gurgaon",
+    "experience_required": "1-2 years",
+    "employment_type": "Full-time",
+    "salary": "₹8,00,000 - ₹12,00,000 PA",
+    "application_url": "https://careers.olakrutrim.com/jobs/job_0074"
+  },
+  {
+    "id": "job_0075",
+    "title": "AI / ML Engineer",
+    "company": "Ola Krutrim",
+    "description": "<p>Join our core AI team to build semantic retrieval pipelines and fine-tune transformer models. You will implement embedding search using pgvector, optimize vector similarity search, and evaluate retrieval-augmented generation systems.</p>\n\nAbout Ola Krutrim: Building sovereign foundational AI models and high-throughput inference APIs.\nRequirements: Demonstrated experience in Python, PyTorch, Hugging Face. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Hugging Face",
+      "Vector Databases",
+      "LangChain"
+    ],
+    "location": "Bangalore (HSR Layout)",
+    "experience_required": "1-3 years",
+    "employment_type": "Full-time",
+    "salary": "₹15,00,000 - ₹22,00,000 PA",
+    "application_url": "https://careers.olakrutrim.com/jobs/job_0075"
+  },
+  {
+    "id": "job_0076",
+    "title": "Senior Backend Architect",
+    "company": "Ola Krutrim",
+    "description": "We are hiring a Senior Backend Architect to lead our platform reliability and microservices architecture. Requires deep expertise in high-throughput distributed systems, event streams with Kafka, and container orchestration.\n\nAbout Ola Krutrim: Building sovereign foundational AI models and high-throughput inference APIs.\nRequirements: Demonstrated experience in Go, Python, Kubernetes. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Go",
+      "Python",
+      "Kubernetes",
+      "Kafka",
+      "PostgreSQL",
+      "Distributed Systems"
+    ],
+    "location": "Remote",
+    "experience_required": "5+ years",
+    "employment_type": "Full-time",
+    "salary": "₹35,00,000 - ₹50,00,000 PA",
+    "application_url": "https://careers.olakrutrim.com/jobs/job_0076"
+  },
+  {
+    "id": "job_0077",
+    "title": "Full Stack Engineer (React + Node/Python)",
+    "company": "Ola Krutrim",
+    "description": "Seeking an end-to-end builder to craft responsive user interfaces in React while connecting them to robust Python FastAPI backends. Strong product sense and clean API design skills required.\n\nAbout Ola Krutrim: Building sovereign foundational AI models and high-throughput inference APIs.\nRequirements: Demonstrated experience in React.js, Node.js, FastAPI. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "FastAPI",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "location": "Bangalore",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹14,00,000 - ₹20,00,000 PA",
+    "application_url": "https://careers.olakrutrim.com/jobs/job_0077"
+  },
+  {
+    "id": "job_0078",
+    "title": "Data Engineer",
+    "company": "Ola Krutrim",
+    "description": "Design and maintain high-volume ETL pipelines. Responsible for data ingestion from multiple third-party APIs, data transformation using PySpark, and orchestrating batch jobs with Airflow.\n\nAbout Ola Krutrim: Building sovereign foundational AI models and high-throughput inference APIs.\nRequirements: Demonstrated experience in Python, Apache Spark, Airflow. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "Apache Spark",
+      "Airflow",
+      "Snowflake",
+      "SQL"
+    ],
+    "location": "Bangalore",
+    "experience_required": "2-4 years",
+    "employment_type": "Full-time",
+    "salary": "₹16,00,000 - ₹24,00,000 PA",
+    "application_url": "https://careers.olakrutrim.com/jobs/job_0078"
+  },
+  {
+    "id": "job_0079",
+    "title": "DevOps / Platform Engineer",
+    "company": "Ola Krutrim",
+    "description": "Automate cloud infrastructure and continuous deployment workflows. Maintain our Kubernetes clusters on AWS, write reusable Terraform modules, and maintain 99.99% uptime.\n\nAbout Ola Krutrim: Building sovereign foundational AI models and high-throughput inference APIs.\nRequirements: Demonstrated experience in Kubernetes, Docker, AWS. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "AWS",
+      "Terraform",
+      "CI/CD"
+    ],
+    "location": "Remote",
+    "experience_required": "3-5 years",
+    "employment_type": "Full-time",
+    "salary": "₹18,00,000 - ₹26,00,000 PA",
+    "application_url": "https://careers.olakrutrim.com/jobs/job_0079"
+  },
+  {
+    "id": "job_0080",
+    "title": "AI Engineering Intern",
+    "company": "Ola Krutrim",
+    "description": "Exciting internship opportunity for university students and recent graduates! Learn to build semantic search engines, fine-tune sentence transformers, and deploy AI services to production.\n\nAbout Ola Krutrim: Building sovereign foundational AI models and high-throughput inference APIs.\nRequirements: Demonstrated experience in Python, PyTorch, NLP. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NLP",
+      "FastAPI",
+      "Scikit-Learn"
+    ],
+    "location": "Bangalore (HSR Layout)",
+    "experience_required": "Fresher",
+    "employment_type": "Internship",
+    "salary": "₹45,000 - ₹65,000 / month",
+    "application_url": "https://careers.olakrutrim.com/jobs/job_0080"
+  },
+  {
+    "id": "job_dup_9999",
+    "title": "Backend Engineering Intern",
+    "company": "Elip",
+    "description": "<p>We are seeking a high-energy <b>Backend Engineering Intern</b> to help design REST APIs and microservices. You will work directly with our senior engineers using Python and FastAPI. Ideal for fresh graduates passionate about scalable server-side systems.</p>\n\nAbout Elip: YC W25 AI agents startup building autonomous workflow automation.\nRequirements: Demonstrated experience in Python, FastAPI, PostgreSQL. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "Git"
+    ],
+    "location": "Remote",
+    "experience_required": "Fresher / 0 years",
+    "employment_type": "Internship",
+    "salary": "₹40,000 - ₹60,000 / month",
+    "application_url": "https://careers.elip.com/jobs/job_0001"
+  },
+  {
+    "id": "job_dup_8888",
+    "title": "Senior Backend Architect",
+    "company": "Elip",
+    "description": "We are hiring a Senior Backend Architect to lead our platform reliability and microservices architecture. Requires deep expertise in high-throughput distributed systems, event streams with Kafka, and container orchestration.\n\nAbout Elip: YC W25 AI agents startup building autonomous workflow automation.\nRequirements: Demonstrated experience in Go, Python, Kubernetes. Comfortable collaborating in an agile startup environment.",
+    "skills": [
+      "Go",
+      "Python",
+      "Kubernetes",
+      "Kafka",
+      "PostgreSQL",
+      "Distributed Systems"
+    ],
+    "location": "Remote",
+    "experience_required": "5+ years",
+    "employment_type": "Full-time",
+    "salary": "₹35,00,000 - ₹50,00,000 PA",
+    "application_url": "https://careers.elip.com/jobs/job_0004"
+  }
+]
