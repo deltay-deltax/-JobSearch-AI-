@@ -1,0 +1,385 @@
+[
+  {
+    "query_id": "q01",
+    "query": "Backend Engineering Intern Python FastAPI",
+    "type": "exact_keyword",
+    "relevant_job_ids": [
+      "job_0001",
+      "job_0009",
+      "job_0017",
+      "job_0025",
+      "job_0033",
+      "job_0041",
+      "job_0049",
+      "job_0057",
+      "job_0065",
+      "job_0073"
+    ]
+  },
+  {
+    "query_id": "q02",
+    "query": "Fresher server-side developer building REST APIs",
+    "type": "vocab_mismatch",
+    "relevant_job_ids": [
+      "job_0001",
+      "job_0009",
+      "job_0017",
+      "job_0025",
+      "job_0033",
+      "job_0041",
+      "job_0049",
+      "job_0057",
+      "job_0065",
+      "job_0073"
+    ]
+  },
+  {
+    "query_id": "q03",
+    "query": "Junior Python developer with Django and Celery",
+    "type": "exact_keyword",
+    "relevant_job_ids": [
+      "job_0002",
+      "job_0010",
+      "job_0018",
+      "job_0026",
+      "job_0034",
+      "job_0042",
+      "job_0050",
+      "job_0058",
+      "job_0066",
+      "job_0074"
+    ]
+  },
+  {
+    "query_id": "q04",
+    "query": "AI ML Engineer PyTorch transformer models",
+    "type": "exact_keyword",
+    "relevant_job_ids": [
+      "job_0003",
+      "job_0011",
+      "job_0019",
+      "job_0027",
+      "job_0035",
+      "job_0043",
+      "job_0051",
+      "job_0059",
+      "job_0067",
+      "job_0075"
+    ]
+  },
+  {
+    "query_id": "q05",
+    "query": "deep learning neural networks natural language processing",
+    "type": "vocab_mismatch",
+    "relevant_job_ids": [
+      "job_0003",
+      "job_0011",
+      "job_0019",
+      "job_0027",
+      "job_0035",
+      "job_0043",
+      "job_0051",
+      "job_0059",
+      "job_0067",
+      "job_0075",
+      "job_0008",
+      "job_0016",
+      "job_0024",
+      "job_0032",
+      "job_0040",
+      "job_0048",
+      "job_0056",
+      "job_0064",
+      "job_0072",
+      "job_0080"
+    ]
+  },
+  {
+    "query_id": "q06",
+    "query": "Senior Backend Architect distributed systems Kafka Kubernetes",
+    "type": "exact_keyword",
+    "relevant_job_ids": [
+      "job_0004",
+      "job_0012",
+      "job_0020",
+      "job_0028",
+      "job_0036",
+      "job_0044",
+      "job_0052",
+      "job_0060",
+      "job_0068",
+      "job_0076"
+    ]
+  },
+  {
+    "query_id": "q07",
+    "query": "Full Stack developer React Node.js TypeScript",
+    "type": "exact_keyword",
+    "relevant_job_ids": [
+      "job_0005",
+      "job_0013",
+      "job_0021",
+      "job_0029",
+      "job_0037",
+      "job_0045",
+      "job_0053",
+      "job_0061",
+      "job_0069",
+      "job_0077"
+    ]
+  },
+  {
+    "query_id": "q08",
+    "query": "Data Engineer Apache Spark Airflow ETL pipelines",
+    "type": "exact_keyword",
+    "relevant_job_ids": [
+      "job_0006",
+      "job_0014",
+      "job_0022",
+      "job_0030",
+      "job_0038",
+      "job_0046",
+      "job_0054",
+      "job_0062",
+      "job_0070",
+      "job_0078"
+    ]
+  },
+  {
+    "query_id": "q09",
+    "query": "DevOps Platform Engineer AWS Terraform Kubernetes CI/CD",
+    "type": "exact_keyword",
+    "relevant_job_ids": [
+      "job_0007",
+      "job_0015",
+      "job_0023",
+      "job_0031",
+      "job_0039",
+      "job_0047",
+      "job_0055",
+      "job_0063",
+      "job_0071",
+      "job_0079"
+    ]
+  },
+  {
+    "query_id": "q10",
+    "query": "AI Engineering internship fresher PyTorch Hugging Face",
+    "type": "exact_keyword",
+    "relevant_job_ids": [
+      "job_0008",
+      "job_0016",
+      "job_0024",
+      "job_0032",
+      "job_0040",
+      "job_0048",
+      "job_0056",
+      "job_0064",
+      "job_0072",
+      "job_0080"
+    ]
+  },
+  {
+    "query_id": "q11",
+    "query": "Python backend developer in Bangalore",
+    "type": "location_targeted",
+    "relevant_job_ids": [
+      "job_0002",
+      "job_0003",
+      "job_0006",
+      "job_0008",
+      "job_0010",
+      "job_0014",
+      "job_0017",
+      "job_0018",
+      "job_0019",
+      "job_0020",
+      "job_0024",
+      "job_0026",
+      "job_0032",
+      "job_0036",
+      "job_0038",
+      "job_0040",
+      "job_0041",
+      "job_0046",
+      "job_0048",
+      "job_0050",
+      "job_0051",
+      "job_0059",
+      "job_0060",
+      "job_0064",
+      "job_0066",
+      "job_0072",
+      "job_0075",
+      "job_0078",
+      "job_0080"
+    ]
+  },
+  {
+    "query_id": "q12",
+    "query": "Remote React Fullstack engineering role",
+    "type": "location_targeted",
+    "relevant_job_ids": [
+      "job_0029",
+      "job_0037",
+      "job_0061",
+      "job_0069"
+    ]
+  },
+  {
+    "query_id": "q13",
+    "query": "microservices and asynchronous tasks with Celery and Redis",
+    "type": "tech_stack",
+    "relevant_job_ids": [
+      "job_0002",
+      "job_0010",
+      "job_0018",
+      "job_0026",
+      "job_0034",
+      "job_0042",
+      "job_0050",
+      "job_0058",
+      "job_0066",
+      "job_0074"
+    ]
+  },
+  {
+    "query_id": "q14",
+    "query": "cloud infrastructure automation and container orchestration",
+    "type": "vocab_mismatch",
+    "relevant_job_ids": [
+      "job_0007",
+      "job_0015",
+      "job_0023",
+      "job_0031",
+      "job_0039",
+      "job_0047",
+      "job_0055",
+      "job_0063",
+      "job_0071",
+      "job_0079"
+    ]
+  },
+  {
+    "query_id": "q15",
+    "query": "vector databases semantic retrieval and RAG",
+    "type": "tech_stack",
+    "relevant_job_ids": [
+      "job_0003",
+      "job_0011",
+      "job_0019",
+      "job_0027",
+      "job_0035",
+      "job_0043",
+      "job_0051",
+      "job_0059",
+      "job_0067",
+      "job_0075"
+    ]
+  },
+  {
+    "query_id": "q16",
+    "query": "frontend web user interfaces with React and Tailwind",
+    "type": "vocab_mismatch",
+    "relevant_job_ids": [
+      "job_0005",
+      "job_0013",
+      "job_0021",
+      "job_0029",
+      "job_0037",
+      "job_0045",
+      "job_0053",
+      "job_0061",
+      "job_0069",
+      "job_0077"
+    ]
+  },
+  {
+    "query_id": "q17",
+    "query": "high-throughput event streaming and platform reliability",
+    "type": "vocab_mismatch",
+    "relevant_job_ids": [
+      "job_0004",
+      "job_0012",
+      "job_0020",
+      "job_0028",
+      "job_0036",
+      "job_0044",
+      "job_0052",
+      "job_0060",
+      "job_0068",
+      "job_0076"
+    ]
+  },
+  {
+    "query_id": "q18",
+    "query": "entry level fresher graduate internship in artificial intelligence",
+    "type": "vocab_mismatch",
+    "relevant_job_ids": [
+      "job_0008",
+      "job_0016",
+      "job_0024",
+      "job_0032",
+      "job_0040",
+      "job_0048",
+      "job_0056",
+      "job_0064",
+      "job_0072",
+      "job_0080"
+    ]
+  },
+  {
+    "query_id": "q19",
+    "query": "PySpark batch jobs and SQL data warehouse",
+    "type": "tech_stack",
+    "relevant_job_ids": [
+      "job_0006",
+      "job_0014",
+      "job_0022",
+      "job_0030",
+      "job_0038",
+      "job_0046",
+      "job_0054",
+      "job_0062",
+      "job_0070",
+      "job_0078"
+    ]
+  },
+  {
+    "query_id": "q20",
+    "query": "FastAPI microservices and relational database queries",
+    "type": "tech_stack",
+    "relevant_job_ids": [
+      "job_0001",
+      "job_0005",
+      "job_0008",
+      "job_0009",
+      "job_0013",
+      "job_0016",
+      "job_0017",
+      "job_0021",
+      "job_0024",
+      "job_0025",
+      "job_0029",
+      "job_0032",
+      "job_0033",
+      "job_0037",
+      "job_0040",
+      "job_0041",
+      "job_0045",
+      "job_0048",
+      "job_0049",
+      "job_0053",
+      "job_0056",
+      "job_0057",
+      "job_0061",
+      "job_0064",
+      "job_0065",
+      "job_0069",
+      "job_0072",
+      "job_0073",
+      "job_0077",
+      "job_0080"
+    ]
+  }
+]
